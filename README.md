@@ -19,7 +19,7 @@ An embedded data acquisition system using the DHT11 sensor for real-time tempera
 - Documentation Requirement
 - Submission Requirements
 - Future Improvements
-- License
+- License   
 
 ---
 
